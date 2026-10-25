@@ -34,8 +34,6 @@ To run this project locally on your machine:
    ```bash
    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
 
-Install dependancies
-  ```bash
-   npm install
+Install dependancies: npm install
 
-
+Start the Vite development server: npm run dev
